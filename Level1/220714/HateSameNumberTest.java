@@ -13,5 +13,4 @@ class HateSameNumberTest {
     assertArrayEquals(new int[]{1, 3, 0, 1},
         hateSameNumber.solution(new int[]{1, 1, 3, 3, 0, 1, 1}));
   }
-
 }

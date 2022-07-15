@@ -23,20 +23,3 @@ public class HateSameNumber {
     return answer;
   }
 }
-
-/*
-int count = 0;
-
-    for(int i = 0; i < arr.length; i += 1) {
-      i = count;
-      for(int j = i; j < arr.length; j += 1) {
-        if(arr[i] == arr[j]) {
-          answer[i] = arr[i];
-          count += 1;
-        }
-        if(arr[i] != arr[j]) {
-          break;
-        }
-      }
-    }
- */
