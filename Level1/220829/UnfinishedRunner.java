@@ -19,8 +19,6 @@ public class UnfinishedRunner {
 
 //    answer = participants.get(0);
 
-    // 테스트 2번 빼고 다 실패
-
     Arrays.sort(participant);
     Arrays.sort(completion);
 
